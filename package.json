@@ -1,21 +1,14 @@
 {
   "name": "qq-sequelize",
-  "description": "Multi dialect ORM for Node.JS",
-  "version": "5.0.0-beta.12",
-  "author": "Sascha Depold <sascha@depold.com>",
-  "contributors": [
-    "Sascha Depold <sascha@depold.com>",
-    "Jan Aagaard Meier <janzeh@gmail.com>",
-    "Daniel Durante <me@danieldurante.com>",
-    "Mick Hansen <mick.kasper.hansen@gmail.com>",
-    "Sushant Dhiman <sushantdhiman@outlook.com>"
-  ],
+  "description": "Multi dialect ORM for Node.JS forked from sequelize",
+  "version": "1.0",
+  "author": "Guilherme Leal <lealhugui@gmail.com>",  
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/lealhugui/qq-sequelize.git"
   },
   "bugs": {
-    "url": "https://github.com/sequelize/sequelize/issues"
+    "url": "https://github.com/lealhugui/qq-sequelize.git/issues"
   },
   "main": "index.js",
   "engines": {
