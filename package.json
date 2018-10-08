@@ -1,7 +1,7 @@
 {
-  "name": "qq-sequelize",
+  "name": "@qq-framework/sequelize",
   "description": "Multi dialect ORM for Node.JS forked from sequelize",
-  "version": "1.0",
+  "version": "1.0.0-beta.1",
   "author": "Guilherme Leal <lealhugui@gmail.com>",  
   "repository": {
     "type": "git",
