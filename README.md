@@ -1,2 +1,2 @@
 # qq-Sequelize
-Forked from [Sequelize][https://github.com/sequelize/sequelize]
+Forked from [Sequelize](https://github.com/sequelize/sequelize)
